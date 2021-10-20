@@ -3,6 +3,7 @@
 -   Laravel
 -   Jetstream + Inertiajs
 -   Vue3
+-   Tailwindcss
 -   MySQL
 
 ## Setup locally
